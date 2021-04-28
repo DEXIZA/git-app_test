@@ -1,3 +1,4 @@
 class TestsController < ApplicationController
-  testsコントローラーの作成
+  def index
+  end
 end
